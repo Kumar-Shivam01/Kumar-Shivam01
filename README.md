@@ -2,7 +2,7 @@
 - 👀 I’m interested in web designing and development.
 - 🌱 I’m currently learning DSA, javascript, HTML, CSS.
 - 💞️ I will love to collaborate in new projects.
-- 📫 Reach me through ig --> @player._01
+- 📫 Reach me through ig --> @shivam._.mmm
 - ⚡ Fun fact: I am aspiring to become a full stack developer.
 
 <!---
